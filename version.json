@@ -1,1 +1,1 @@
-{"versionCode":28,"versionName":"1.27","apkUrl":"https://files.catbox.moe/t334su.apk","htmlUrl":"https://inkhowl.github.io/albion-ledger/","notes":"Fixes the update checker itself (it never actually checked before), plus potion step cards with real herb names."}
+{"versionCode":29,"versionName":"1.28","apkUrl":"https://files.catbox.moe/h9k57y.apk","htmlUrl":"https://inkhowl.github.io/albion-ledger/","notes":"Test build: verify the update banner appears on launch, then install to confirm the flow."}
