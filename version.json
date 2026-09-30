@@ -1,1 +1,1 @@
-{"versionCode":27,"versionName":"1.26","apkUrl":"https://files.catbox.moe/2yoid1.apk","htmlUrl":"https://inkhowl.github.io/albion-ledger/","notes":"Potion detail now shows step-by-step buy/brew/sell cards with real ingredient names (e.g. T4 Crenellated Burdock)."}
+{"versionCode":28,"versionName":"1.27","apkUrl":"https://files.catbox.moe/t334su.apk","htmlUrl":"https://inkhowl.github.io/albion-ledger/","notes":"Fixes the update checker itself (it never actually checked before), plus potion step cards with real herb names."}
